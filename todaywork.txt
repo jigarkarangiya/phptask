@@ -1,0 +1,15 @@
+today's work: (22-1-2021)
+
+=>updated home page with clean design,
+=>putted client side validation in registration page,
+=>Added Resume Upload and Download Functionality.
+=>formatted all page's code,
+=>Added confirmation of logout,
+=>Fixed File Upload,
+=>Fixed file upload using timestamp,
+=>Ask user (alert) when deleting a record,
+=>Added Dynamic Navbar Links,
+=>Added validation when user enter wrong credentials (using session),
+=>updated home page with clean design,
+=>putted client side validation in registration page,
+=>Added Resume Upload and Download Functionality.
